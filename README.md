@@ -1,1 +1,1 @@
-# chat-applicatio
+# chat-application
