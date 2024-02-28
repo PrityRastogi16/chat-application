@@ -20,6 +20,7 @@
     border: 0.1vmax solid black;
     height: 70%;
     box-sizing: border-box;
+    /* overflow-y: auto; */
 }
 .inputBox{
     border: 0.1vmax solid black;
