@@ -1,5 +1,6 @@
 import React from 'react'
 import "./Join.css"
+
 import {Link} from "react-router-dom"
 
 let user;
@@ -20,6 +21,5 @@ const Join = () => {
     </div>
   )
 }
-
 export default Join
 export {user}
